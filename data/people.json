@@ -1,0 +1,93 @@
+{
+    "1": {
+        "personName": "Nilesh Palve",
+        "age": 26,
+        "contactNumber": 9768169102,
+        "year": 6,
+        "carOwnedModel":"Hammer ",
+        "isCarRegistered":1,
+        "isPersonRegistered":0
+      },
+      "2": {
+        "personName": "Sachin Kumar",
+        "age": 32,
+        "contactNumber": 9874652525,
+        "year":4,
+        "carOwnedModel":"Maruti 800 ",
+        "isCarRegistered":0,
+        "isPersonRegistered":1
+      },
+    "3": {
+      "personName": "Mahesh Gaikar",
+      "age": 27,
+      "contactNumber":9875455454,
+      "year": 2,
+      "carOwnedModel":"Lamborghini ",
+      "isCarRegistered":1,
+      "isPersonRegistered":0
+    },
+    "4": {
+        "personName": "Vijay Gawade",
+        "age": 29,
+        "contactNumber": 7585858585,
+        "year": 1,
+        "carOwnedModel":"Fortuner ",
+        "isCarRegistered":0,
+        "isPersonRegistered":1
+      },
+      "5": {
+        "personName": "Yogesh Palve",
+        "age": 22,
+        "contactNumber": 8585845685,
+        "year": 8,
+        "carOwnedModel":"Innova ",
+        "isCarRegistered":1,
+        "isPersonRegistered":0
+      },
+      "6": {
+        "personName": "Murli Vijay",
+        "age": 35,
+        "contactNumber": 99525254545,
+        "year": 9,
+        "carOwnedModel":"BMW ",
+        "isCarRegistered":0,
+        "isPersonRegistered":1
+      },
+      "7": {
+        "personName": "Prashant Shelar",
+        "age": 58,
+        "contactNumber": 8856898525,
+        "year": 12,
+        "carOwnedModel":"Audi ",
+        "isCarRegistered":1,
+        "isPersonRegistered":0
+      },
+      "8": {
+        "personName": "Akshay Devade",
+        "age": 48,
+        "contactNumber": 7785858512,
+        "year": 9,
+        "carOwnedModel":"Mercedez ",
+        "isCarRegistered":0,
+        "isPersonRegistered":1
+      },
+      "9": {
+        "personName": "Vijaya Prakash",
+        "age": 31,
+        "contactNumber": 9856521455,
+        "year": 2,
+        "carOwnedModel":"Omi ",
+        "isCarRegistered":1,
+        "isPersonRegistered":0
+      },
+      "10": {
+        "personName": "Shashi Kumar",
+        "age": 46,
+        "contactNumber": 9595858545,
+        "year": 4,
+        "carOwnedModel":"Ertica ",
+        "isCarRegistered":0,
+        "isPersonRegistered":1
+      }
+  }
+
